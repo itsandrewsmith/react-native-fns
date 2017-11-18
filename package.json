@@ -7,10 +7,17 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "keywords": ["react", "react-native", "helpers", "npm"],
+  "keywords": [
+    "react",
+    "react-native",
+    "helpers",
+    "npm"
+  ],
   "jest": {
     "preset": "react-native",
-    "setupFiles": ["./setupJest.js"]
+    "setupFiles": [
+      "./setupJest.js"
+    ]
   },
   "author": "andrew <a.smith@live.ca> (http://itsandrewsmith.com/)",
   "license": "ISC",
@@ -31,5 +38,9 @@
     "react-native-mock": "^0.3.1",
     "react-native-mock-render": "^0.0.15",
     "react-test-renderer": "^16.1.1"
+  },
+  "peerDependencies": {
+    "react": ">=0.14.5 || >=16.0.0-alpha.6",
+    "react-native": ">=0.14.0 && < 1"
   }
 }
