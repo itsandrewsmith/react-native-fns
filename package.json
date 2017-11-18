@@ -1,6 +1,6 @@
 {
   "name": "react-native-fns",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "helper functions for react-native services and apis",
   "main": "src/index.js",
   "scripts": {
