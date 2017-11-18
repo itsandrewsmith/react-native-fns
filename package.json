@@ -1,23 +1,20 @@
 {
   "name": "react-native-fns",
-  "version": "1.0.2",
+  "version": "1.0.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsandrewsmith/react-native-fns"
+  },
   "description": "helper functions for react-native services and apis",
   "main": "src/index.js",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "keywords": [
-    "react",
-    "react-native",
-    "helpers",
-    "npm"
-  ],
+  "keywords": ["react", "react-native", "helpers", "npm"],
   "jest": {
     "preset": "react-native",
-    "setupFiles": [
-      "./setupJest.js"
-    ]
+    "setupFiles": ["./setupJest.js"]
   },
   "author": "andrew <a.smith@live.ca> (http://itsandrewsmith.com/)",
   "license": "ISC",
