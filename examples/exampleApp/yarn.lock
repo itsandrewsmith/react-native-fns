@@ -4455,9 +4455,9 @@ react-native-branch@2.0.0-beta.3:
   version "2.0.0-beta.3"
   resolved "https://registry.yarnpkg.com/react-native-branch/-/react-native-branch-2.0.0-beta.3.tgz#2167af86bbc9f964bd45bd5f37684e5b54965e32"
 
-react-native-fns@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/react-native-fns/-/react-native-fns-1.0.1.tgz#9252f0861615642ec4ce5507d0514c9dd2ed1c86"
+react-native-fns@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/react-native-fns/-/react-native-fns-1.0.6.tgz#55702daab186b747acbdb0264d8f1d8281a727b9"
 
 react-native-gesture-handler@1.0.0-alpha.28:
   version "1.0.0-alpha.28"
